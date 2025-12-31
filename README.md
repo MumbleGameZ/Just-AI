@@ -1,4 +1,5 @@
 # Just AI
+**by Yassin Hany**
 
 Just AI is a fully customizable AI chatbot app built with Unity.
 
