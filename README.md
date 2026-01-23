@@ -13,6 +13,9 @@ Just AI is a fully customizable AI chatbot app built with Unity.
 ## Download
 Download the APK from the Releases section
 
+## Credits
+Developed by Yassin Hany
+
 ## Notes
 - Android only
 - Requires internet connection
