@@ -15,6 +15,7 @@ Download the APK from the Releases section
 
 ## Credits
 Developed by Yassin Hany
+Testers: Sofian, Ramez
 
 ## Notes
 - Android only
