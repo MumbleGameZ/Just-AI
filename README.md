@@ -20,5 +20,5 @@ Testers: Botros, Ramez, and Zyad
 ## Notes 
 - Android only
 
-## Status 🪧
+## Status
 Final build for national school competition.
